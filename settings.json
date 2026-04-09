@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "DmNx_SMP.aternos.me:40848",
+    "ip": "DmNx_SMP.aternos.me",
     "port": 40848,
     "version": "1.21.11",
     "try-creative": false
